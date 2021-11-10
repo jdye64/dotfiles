@@ -1,0 +1,7 @@
+channels:
+  - rapidsai-nightly
+  - rapidsai
+  - nvidia
+  - conda-forge
+  - defaults
+anaconda_upload: true
