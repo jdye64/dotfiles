@@ -1,0 +1,9 @@
+[user]
+	email = jdye64@gmail.com
+	name = Jeremy Dyer
+[core]
+	editor = vim
+[merge]
+	ff = only
+[alias]
+	whatadded = log --diff-filter=A
